@@ -7,3 +7,5 @@
 - In August 2019, the Indian Parliament passed a resolution to divide the state of Jammu and Kashmir into two Union Territories, Jammu & Kashmir (J&K) and Ladakh, which came into action on 31 October 2019.
 
 - Source Wikipedia 
+
+[Check On Kaggle](https://www.kaggle.com/rushikeshlavate/states-and-union-territories-of-india-by-area)
